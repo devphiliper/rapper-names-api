@@ -13,7 +13,7 @@ https://basic-rapper-names-api.cyclic.app/api
 
 Add rapper name to the URL to get back their data
 
-Example: https://basic-rapper-names-api.cyclic.app/api/**rapper-name**
+Example: https://basic-rapper-names-api.cyclic.app/api/rapper-name
 
 
 
