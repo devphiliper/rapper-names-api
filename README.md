@@ -6,14 +6,14 @@ Rapper Names API allows you to search a database of all your favourite rappers. 
 ### Tech Used: HTML, Javascript, Express, Node
 
 ## Link to API: 
---To Be Updated--
+https://basic-rapper-names-api.cyclic.app/api
 
 
 ## How to use the API:
 
 Add rapper name to the URL to get back their data
 
-Example: --URL GOES HERE--/api/**rapper name**
+Example: https://basic-rapper-names-api.cyclic.app/api/**rapper-name**
 
 
 
